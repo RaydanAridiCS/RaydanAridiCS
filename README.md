@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Raydan Aridi
-- 🌱 I’m currently learning Computer Science major + Cyber security 
-- 📫 How to reach me: Contact me on my email Raydanaridi.CS@gmail.com
+- Hi, I’m Raydan Aridi
+- I am currently learning Computer Science major
+- i am a mobile and web developer
+- How to reach me: Contact me on my email Raydanaridi.CS@gmail.com
 
 
 <!---
