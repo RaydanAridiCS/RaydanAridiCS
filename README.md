@@ -25,7 +25,7 @@ I am a Full Stack Software Engineer specializing in building robust, type-safe w
 Whether I am building a custom SaaS application from the ground up or automating complex business logic, I focus on delivering scalable, high-performance software that drives real value.
 
 **Current Engineering Focus:**
-* 🚀 **Building:** Architecting multi-tenant SaaS platforms (like Zarello) and feature-rich web tools (Toolwright.com).
+* 🚀 **Building:** Architecting multi-tenant SaaS platforms and feature-rich web tools.
 * ⚙️ **Automating:** Designing advanced, hands-off business workflows and integrations utilizing **n8n**.
 * 🛡️ **Exploring:** Deepening my knowledge in Cybersecurity, bug bounty hunting, and system hardening.
 * 🌍 **Community:** Passionate about leveraging new technologies to empower and grow the tech ecosystem in Lebanon.
